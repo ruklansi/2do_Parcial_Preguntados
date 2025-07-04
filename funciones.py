@@ -37,7 +37,7 @@ def guardar_resultado(nombre, puntaje):
     """
     with open("partidas.json", "r") as archivo:
         datos = json.load(archivo)
-    datos.append({"nombre": nombre, "puntaje": puntaje, "fecha": datetime.now().strftime("%Y-%m-%d")})
+    datos.append({"nombre": nombre, "puntaje": puntaje, "fecha": datetime.now().strftime("%d-%m-%Y")})
     with open("partidas.json", "w") as archivo:
         json.dump(datos, archivo, indent=4)
 
