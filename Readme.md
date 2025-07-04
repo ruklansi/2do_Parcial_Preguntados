@@ -14,7 +14,7 @@ Integrantes:
 
 - Emilse Gomez
 
-- 
+- Adrian Ferrera
 
 #### " ESTE JUEGO FUE PROBADO EN ENTORNOS MacOS y GNU/Linux con entornos gráficos. ####
 
