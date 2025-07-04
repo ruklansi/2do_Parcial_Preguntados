@@ -16,7 +16,7 @@ Integrantes:
 
 - Adrian Ferrera
 
-#### " ESTE JUEGO FUE PROBADO EN SISTEMAS MacOS y GNU/Linux con entornos gráficos ". ####
+#### " ESTE JUEGO FUE PROBADO EN SISTEMAS MacOS, Windows, GNU/Linux con entornos gráficos ". ####
 
 Instalación de dependencias:
 
