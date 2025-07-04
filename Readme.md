@@ -24,6 +24,10 @@ El juego depende de un par de librerías esenciales de Python, que están conven
 
 pip3 install -r requirements.txt
 
+o tambien puede ser depende de la version:
+
+pip install -r requirements.txt
+
 Este comando instalará automáticamente todas las dependencias necesarias, como Pygame y Pillow, que son cruciales para que el juego funcione correctamente.
 
 Una vez que las librerías estén instaladas, estarán listos para ejecutar el juego en la carpeta con el suiguiente comando:
